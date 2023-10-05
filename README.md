@@ -1,4 +1,4 @@
-به نام خدا
+
 
 # Introduction to Python and Its Libraries for Data Mining
 
