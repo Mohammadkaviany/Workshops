@@ -3,9 +3,9 @@
 # Introduction to Python and Its Libraries for Data Mining💻📘
 
 ## Overview
-This repository contains course materials and resources for the "Introduction to Python and Its Libraries for Data Mining" course taught by Dr. Al-e-Mohammad.
+This repository contains course materials and resources for the "Introduction to Python and Its Libraries for Data Mining" course teaching by Dr. Al-e-Mohammad.
 
-In this course, we will explore the fundamentals of Python programming and various libraries commonly used in the field of data mining and machine learning. Python is a versatile programming language known for its simplicity and readability, making it an excellent choice for data analysis and manipulation. The course will cover essential topics such as data manipulation, data visualization, and machine learning with a focus on practical applications.
+In this course, we will explore the fundamentals of Python programming and various libraries commonly used in the field of data mining and machine learning. Python is a versatile programming language known for its simplicity and readability, making it an excellent choice for data analysis and manipulation. The course will cover essential topics such as data manipulation, data visualization, Pandas basics, Numpy fundamentals and Visualization with matplotlib.
 
 ## Course Contents
 The course includes the following key topics:
@@ -49,6 +49,6 @@ To get started with this course, you can follow these steps:
 Special thanks to Dr. Al-e-Mohammad for teaching this course and sharing valuable knowledge with the community.
 
 ## Contact Information
-For any inquiries or assistance related to this course, please feel free to contact me at [kaviany.mohammad@yahoo.com](mailto:your-email@example.com) | [Linkedin Profile](www.linkedin.com/mohammadkaviany).
+For any inquiries or assistance related to this course, please feel free to contact me at [E-Mail](mailto:your-email@example.com) | [Linkedin Profile](www.linkedin.com/mohammadkaviany).
 
 Happy learning! :)
