@@ -1,6 +1,6 @@
 
 
-💻📘# Introduction to Python and Its Libraries for Data Mining
+# Introduction to Python and Its Libraries for Data Mining💻📘
 
 ## Overview
 This repository contains course materials and resources for the "Introduction to Python and Its Libraries for Data Mining" course taught by Dr. Al-e-Mohammad.
