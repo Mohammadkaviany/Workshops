@@ -1,6 +1,6 @@
 
 
-# Introduction to Python and Its Libraries for Data Mining
+💻📘# Introduction to Python and Its Libraries for Data Mining
 
 ## Overview
 This repository contains course materials and resources for the "Introduction to Python and Its Libraries for Data Mining" course taught by Dr. Al-e-Mohammad.
@@ -38,17 +38,17 @@ To get started with this course, you can follow these steps:
 
 2. Navigate to the course directory:
    ```
-   cd introduction-to-python-for-data-mining
+   cd Workshops-main
    ```
 
-3. Follow the course materials, exercises, and assignments in each module.
+3. Follow the course materials, exercises
 
 4. Contribute: If you find any issues or want to improve the course materials, feel free to create a pull request or open an issue on GitHub.
 
 ## Acknowledgments
-Special thanks to Dr. Ali Mohammad for teaching this course and sharing valuable knowledge with the community.
+Special thanks to Dr. Al-e-Mohammad for teaching this course and sharing valuable knowledge with the community.
 
 ## Contact Information
-For any inquiries or assistance related to this course, please feel free to contact Dr. Ali Mohammad at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or assistance related to this course, please feel free to contact me at [kaviany.mohammad@yahoo.com](mailto:your-email@example.com) | [Linkedin Profile](www.linkedin.com/mohammadkaviany).
 
-Happy learning!
+Happy learning! :)
